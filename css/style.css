@@ -10,6 +10,7 @@
 
 .bg-blu {
     background-color: blue;
+    border: 2px solid white;
 }
 
 .bg-green {
@@ -20,11 +21,10 @@
     height: 100px;
 }
 
-.col-4 {
-    padding: 0;
-    padding-left: 0;
-    padding-right: 0;
+.content-1 {
+    height: 80px;
 }
+
 
 .column {
     width: 100%;
@@ -39,14 +39,16 @@
     margin-left: 0;
 }
 
-.col-10 {
+.padding-0 {
     padding: 0;
     padding-left: 0;
     padding-right: 0;
 }
 
-.col-2 {
-    padding: 0;
-    padding-left: 0;
-    padding-right: 0;
+.margin-top-30px {
+    margin-top: 30px;
+}
+
+.margin-top-10px {
+    margin-top: 10px;
 }
